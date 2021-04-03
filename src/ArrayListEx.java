@@ -8,5 +8,9 @@ public class ArrayListEx {
         cars.add("Ford");
         cars.add("Mazda");
         System.out.println(cars);
+
+        System.out.println(cars.get(0));
+
+
     }
 }
